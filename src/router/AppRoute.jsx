@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom"
 
 import {AuthRoutes} from '../auth/routes/AuthRoutes'
-import { JournalRoutes } from "../journal/pages/routes/JournalRoutes"
+import { JournalRoutes } from "../journal/routes/JournalRoutes"
 
 //Configuracion de rutas - Tenemos que renderizarlo en el medio de la aplciacion
 export const AppRoute = () => {
